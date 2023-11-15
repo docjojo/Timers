@@ -5,8 +5,9 @@
 Timers javascript library to list all timers (timeouts/intervals) (c) 2023 by Chris Ahrweiler
 
 ## Version
-Timers v1.0b | 231115
+
 Timers v1.01b | 231115 | Renamed from _timers to Timers and turned into function
+Timers v1.0b | 231115
 
 ## usage
 
